@@ -165,3 +165,14 @@ Abra cada link no navegador, salve, e redimensione para 1280×720 antes de subir
   https://d8j0ntlcm91z4.cloudfront.net/user_3GKIAKgYOSQKEUc441wzOg8x9ZW/hf_20260711_163141_2a005711-bf2e-4e1d-a056-80944ad499e8.png
 
 Todas também ficam salvas na sua biblioteca do Higgsfield (higgsfield.ai → Generations).
+
+**Variações D e E (2ª rodada do teste, após CTR de 2,7% da 1ª rodada):**
+
+- **Variação D — POV celular com X vermelho + mercado saqueado ao fundo** (1344×768, ultra-realista, espaço no canto superior direito para texto):
+  https://d8j0ntlcm91z4.cloudfront.net/user_3GKIAKgYOSQKEUc441wzOg8x9ZW/hf_20260713_164559_bbaca920-b423-43e1-bb39-afab56cf6213.png
+- **Variação E — Wifi gigante quebrando sobre a Terra** (2048×1152, estilo 2D do próprio vídeo, formas enormes legíveis em TV):
+  https://d8j0ntlcm91z4.cloudfront.net/user_3GKIAKgYOSQKEUc441wzOg8x9ZW/hf_20260713_164731_820622fb-8886-4133-b18f-0ad413d22848.png
+
+**Títulos pareados da 2ª rodada:**
+- Com a D: "A Internet Quase Acabou 3 Vezes — e Ninguém Te Contou"
+- Com a E: "Quanto Tempo Você Sobreviveria Sem Internet? (A Conta Assusta)"
