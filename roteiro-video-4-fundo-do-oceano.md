@@ -36,7 +36,12 @@ no watermark. SCENE: [cena em inglês]
 **Prompts CapCut:**
 - `SCENE: A tiny submarine descending into an immense black ocean abyss, a faint red light blinking on its hull, crushing darkness all around.`
 - `SCENE: Split image: an astronaut planting a flag on the Moon on one side, an empty dark ocean trench on the other side.`
+- `SCENE: A single bus full of human silhouettes floating symbolically above a giant dark ocean trench, showing how few people ever went down.`
 - `SCENE: A stack of golden coins and money towering over a small submarine, both sinking into dark water.`
+- `SCENE: A wealthy man silhouette entering the hatch of a small experimental submersible on a ship deck at dawn.`
+- `SCENE: The ghostly bow of the Titanic wreck emerging from darkness on the seabed, faint and ominous.`
+- `SCENE: A depth gauge with its needle beginning to fall, red warning light reflecting on glass, dark control panel.`
+- `SCENE: View looking up from underwater: the bright ocean surface shrinking into a small circle of light as the camera sinks into darkness.`
 
 Durante sessenta anos, a humanidade conviveu com um fato constrangedor: era mais fácil pisar na Lua do que tocar o fundo do próprio planeta. Doze homens caminharam sobre a poeira lunar antes que a contagem de visitantes do ponto mais profundo do oceano passasse de dois. Hoje, depois de uma corrida bilionária de submarinos privados, o número subiu para algumas dezenas. Todas as pessoas que já estiveram no lugar mais fundo da Terra ainda cabem dentro de um único ônibus.
 
@@ -49,8 +54,13 @@ Respira fundo. A descida começa agora.
 ## PARTE 2 — ONDE A LUZ MORRE
 **Prompts CapCut:**
 - `SCENE: Cross-section of the ocean from surface to abyss, sunlight rays fading from bright turquoise at the top to absolute black below, a tiny diver silhouette near the surface.`
+- `SCENE: A vibrant coral reef in bright turquoise shallow water, schools of fish and a sea turtle, sunlight dancing through the surface.`
+- `SCENE: A sea turtle silhouette gliding against the last fading sunbeams at the edge of the twilight zone.`
 - `SCENE: A scuba diver at the edge of a glowing twilight zone, the water below fading into complete darkness.`
 - `SCENE: Depth meter dial spinning as background shifts from blue to pitch black.`
+- `SCENE: A wall of absolute blackness at one thousand meters deep, a single tiny lantern fish carrying its own light.`
+- `SCENE: A vast panoramic dark ocean habitat filled with thousands of tiny glowing dots of living light, like an underwater galaxy.`
+- `SCENE: Two bioluminescent deep sea creatures exchanging pulses of blue light in the darkness, a silent glowing conversation.`
 
 Metro zero. A superfície. O sol bate na água e o mundo é azul-turquesa. É aqui que vive quase tudo o que você imagina quando pensa em oceano: os corais, os cardumes, as tartarugas. Uma película fina e iluminada.
 
@@ -65,7 +75,12 @@ Mas a escuridão não é o que mata no fundo do mar. O que mata é o que você n
 ## PARTE 3 — O ABRAÇO QUE ESMAGA
 **Prompts CapCut:**
 - `SCENE: A giant elephant balancing its entire weight on a tiny human thumbnail, dramatic scale metaphor, dark background.`
+- `SCENE: A vertical column of ocean water rendered as stacked heavy weights pressing down on a tiny human figure at the bottom.`
+- `SCENE: A pressure gauge with its needle sweeping deep into a glowing red danger zone, dark control room background.`
 - `SCENE: A steel submarine hull being squeezed and dented inward by invisible pressure, stress cracks glowing red.`
+- `SCENE: A steel sphere in dark water surrounded by hundreds of red arrows pointing inward from every direction.`
+- `SCENE: Air bubbles collapsing inward and vanishing in dark water, symbolic implosion moment.`
+- `SCENE: Scientists on a night research ship deck comparing a normal styrofoam cup with a tiny crushed one, amazed expressions.`
 - `SCENE: A styrofoam cup shrinking to miniature size next to its original, on a research ship deck.`
 
 A pressão. Na superfície, você vive com uma atmosfera de pressão sobre o corpo, o peso do ar, e nem percebe. A cada dez metros de descida na água, soma-se mais uma atmosfera inteira.
@@ -79,8 +94,13 @@ Os pesquisadores têm até um ritual para visualizar essa força: eles amarram c
 ## PARTE 4 — O CASO TITAN
 **Prompts CapCut:**
 - `SCENE: A small experimental submersible descending toward the ghostly silhouette of the Titanic wreck on the seabed.`
+- `SCENE: A lone support ship on a vast dark ocean at night, small and isolated under a heavy sky.`
 - `SCENE: Sonar screen on a support ship showing a signal disappearing, red alert glow on operators' faces.`
+- `SCENE: A world map covered in search planes and ships radiating from one point in the North Atlantic, urgent red atmosphere.`
+- `SCENE: A countdown clock motif glowing faintly in a dark room, symbolizing dwindling oxygen and hope.`
+- `SCENE: A navy monitoring room with a single sharp spike on an audio waveform screen, operators frozen.`
 - `SCENE: Debris field on the ocean floor illuminated by a robot's spotlight beam.`
+- `SCENE: A single white flower sinking slowly through dark blue water, quiet memorial mood.`
 
 Junho de dois mil e vinte e três. O submersível Titan desce em direção aos destroços do Titanic, a três mil e oitocentos metros. A bordo, cinco pessoas, incluindo o dono da empresa que construiu o veículo, um casco experimental de fibra de carbono que especialistas vinham questionando havia anos.
 
@@ -92,9 +112,14 @@ E aqui está o detalhe que dá a escala do nosso vídeo: o Titanic está a menos
 
 ## PARTE 5 — OS DOIS MALUCOS DE 1960
 **Prompts CapCut:**
+- `SCENE: A 1960s harbor at dawn, a crane lowering a strange balloon-like bathyscaphe vessel into the water, vintage muted palette.`
 - `SCENE: A strange vintage bathyscaphe vessel like a balloon with a tiny sphere underneath, descending into a dark trench, 1960s style.`
 - `SCENE: Two men cramped inside a tiny metal sphere, faces lit by instrument dials, a cracked window behind them.`
+- `SCENE: Extreme close-up of a crack spreading across a thick acrylic porthole, dark water pressing behind the glass.`
+- `SCENE: Two determined men exchanging a firm handshake inside a cramped metal cabin lit by a single dial.`
+- `SCENE: A metal sphere touching down on the deepest seabed, a cloud of pale sediment rising around it in the spotlight.`
 - `SCENE: A flat fish silhouette gliding over the pale seabed illuminated by a single spotlight.`
+- `SCENE: Calendar pages flying away over a dark ocean, then a sleek modern lone submersible descending, half a century later.`
 
 Vinte e três de janeiro de mil novecentos e sessenta. Enquanto o mundo sonhava com foguetes, dois homens entraram numa esfera de metal do tamanho de uma geladeira, pendurada embaixo de um tanque de gasolina gigante chamado Trieste. Era basicamente um balão às avessas: em vez de subir no ar, afundava no oceano.
 
@@ -107,7 +132,12 @@ Depois deles, o silêncio. O fundo das Marianas só recebeu outra visita humana 
 ## PARTE 6 — AS CRIATURAS QUE NÃO DEVERIAM EXISTIR
 **Prompts CapCut:**
 - `SCENE: A translucent ghostly snailfish swimming in absolute darkness, soft glowing body, delicate and alien.`
+- `SCENE: A robotic deep sea camera rig with bait, its lights revealing a small pale fish approaching in the black void.`
+- `SCENE: A gelatinous transparent fish drifting peacefully while the dark water around it presses with invisible force, unbothered.`
+- `SCENE: Split metaphor: an armored heavy submarine straining against pressure on one side, a soft jelly fish floating freely on the other.`
 - `SCENE: An anglerfish with a glowing lure in the pitch black deep, sharp teeth, bioluminescent dots around it.`
+- `SCENE: A deep sea squid releasing a cloud of glowing ink that swirls like blue fire in the darkness.`
+- `SCENE: A tiny shrimp spitting sparks of bright light at a predator silhouette in the deep dark.`
 - `SCENE: A parade of bizarre bioluminescent deep sea creatures glowing in blue and green against total darkness.`
 
 Mas se a pressão esmaga aço e desintegra submarinos, como pode existir vida lá embaixo?
@@ -122,9 +152,14 @@ E mesmo assim, nada disso preparou os cientistas para o que foi encontrado em mi
 
 ## PARTE 7 — VIDA SEM SOL
 **Prompts CapCut:**
+- `SCENE: A 1970s research submersible approaching a mysterious glow in the distant darkness of the deep ocean floor.`
 - `SCENE: Towering black hydrothermal vent chimneys spewing dark smoke on the ocean floor, surrounded by fields of giant red-plumed tube worms.`
+- `SCENE: Close-up of giant human-sized tube worms with bright red plumes swaying around a smoking vent.`
+- `SCENE: Ghost-white crabs crawling over dark mineral chimneys in the spotlight of a submersible.`
 - `SCENE: A small research submersible spotlight revealing an oasis of white crabs and strange creatures around a deep sea vent.`
 - `SCENE: A glowing chemical equation transforming into living creatures, symbolic scene of chemosynthesis in the dark.`
+- `SCENE: Cutaway of an icy moon of Jupiter revealing a hidden glowing ocean beneath its frozen crust, stars behind.`
+- `SCENE: A primordial deep sea vent with a single spark of glowing life igniting beside it, symbolic origin of life scene.`
 
 Mil novecentos e setenta e sete. Um submarino de pesquisa explorava o fundo perto das ilhas Galápagos quando os cientistas viram algo impossível: chaminés negras de vários metros de altura, cuspindo fumaça escaldante no fundo gelado do oceano. E ao redor delas... um jardim.
 
@@ -139,8 +174,13 @@ Essa descoberta reescreveu os livros e abriu uma porta filosófica que a ciênci
 ## PARTE 8 — O PLANETA QUE NÃO CONHECEMOS
 **Prompts CapCut:**
 - `SCENE: Planet Earth from space with its oceans rendered as giant black question marks.`
-- `SCENE: Sonar waves spreading from a research ship into the deep, only a thin strip of seabed revealed below.`
 - `SCENE: Side by side maps: detailed Mars surface versus mostly blank dark ocean floor map.`
+- `SCENE: Radio waves and phone signals dying instantly as they touch the ocean surface, fading symbols in the water.`
+- `SCENE: A blind submarine navigating dark water along a dotted guessed path, no GPS, uncertainty all around.`
+- `SCENE: Sonar waves spreading from a research ship into the deep, only a thin strip of seabed revealed below.`
+- `SCENE: A world ocean map where only about a quarter glows with mapped grid lines, the rest pure darkness.`
+- `SCENE: A telescope on a mountain seeing distant glowing galaxies, contrasted with an impenetrable wall of black ocean water.`
+- `SCENE: Mysterious silhouettes of undiscovered deep sea species hidden in dark blue blur, waiting to be found.`
 
 E agora um fato para guardar: nós temos mapas mais detalhados da superfície de Marte do que do fundo dos nossos próprios oceanos.
 
@@ -153,8 +193,13 @@ O espaço, em comparação, é escancarado: um telescópio na Terra enxerga gal�
 ## PARTE 9 — A REVELAÇÃO: O FUNDO DECIDE A SUA VIDA
 **Prompts CapCut:**
 - `SCENE: Glowing internet cables crossing the dark seabed with data light pulses, a fishing anchor dangerously close (reuse video 1 cable scene if desired).`
+- `SCENE: Pulses of light representing money and messages racing through a seabed cable between two continents.`
+- `SCENE: A specialized cable repair ship at night lowering a grappling hook into black water, working blind.`
+- `SCENE: A field of glowing mineral nodules scattered across the seabed like coins, robotic arms reaching for them.`
 - `SCENE: Robotic machines harvesting glowing mineral nodules from the seabed, red warning atmosphere.`
+- `SCENE: A sea snail and a sponge morphing into glowing pills and medicine bottles, symbolic deep sea pharmacy.`
 - `SCENE: The International Space Station orbiting above Earth contrasted with an empty dark ocean floor below.`
+- `SCENE: Side by side: an intact space station in orbit versus a crushed underwater habitat concept in the abyss.`
 
 E aqui a história se conecta com tudo o que esse canal já te mostrou. Porque esse lugar que você nunca vai visitar decide a sua vida diária em silêncio.
 
@@ -167,8 +212,13 @@ E respondendo à pergunta do título: por que ninguém constrói uma base lá, s
 ## PARTE 10 — ENCERRAMENTO
 **Prompts CapCut:**
 - `SCENE: The ocean surface at sunset seen from a beach, immense and calm, hiding everything beneath.`
+- `SCENE: A child standing on a beach looking at the vast ocean horizon with wonder, small against the immensity.`
+- `SCENE: Planet Earth from space where the oceans glow softly as the last unexplored frontier.`
+- `SCENE: A glowing horizontal line of light two hundred meters below a calm sea surface, marking the border of the unknown.`
 - `SCENE: A single tiny light descending into the abyss, poetic and lonely.`
+- `SCENE: A massive military submarine silhouette sleeping silently in the deep dark, barely visible.`
 - `SCENE: A dark war room with a single man standing before a giant red warning screen, cold war atmosphere (teaser for next video).`
+- `SCENE: A single hand hovering hesitantly over a glowing red button in a dark room, extreme tension (teaser for next video).`
 
 Então, da próxima vez que você olhar para o mar, lembre-se do que está embaixo daquela linha azul: o maior habitat do planeta, um zoológico alienígena movido a luz própria e química vulcânica, os cabos que carregam sua vida digital, e um território três vezes mais visitado pela morte do que pela humanidade.
 
