@@ -199,24 +199,26 @@ Porque a abelha é o gigante invisível que cabe na palma da sua mão. É o úni
 
 A frase falsa dizia que sem abelhas a humanidade teria quatro anos. A verdade é ao mesmo tempo menos dramática e mais exigente: sem abelhas, a humanidade não morre, mas empobrece, e a conta já está sendo paga em pomares polinizados à mão do outro lado do mundo. Einstein não precisava ter dito nada. Os fatos falam mais alto, e eles pedem uma coisa pequena de você.
 
-## PARTE 10 — ENCERRAMENTO E FIM DA TEMPORADA
+## PARTE 10 — ENCERRAMENTO E GANCHO PARA O VÍDEO 11
 **Prompts CapCut:**
 1. `A single bee taking flight from a flower into golden sunlight [DETALHE: a decolagem], revealing a bright meadow.`
-2. `A thriving pollinator garden buzzing with life [DETALHE: uma abelha], revealing a lush green space.`
-3. `A recap strip of ten images: cables, blackout city, money, ocean, sun, bee [DETALHE: a abelha no fim], revealing the whole row.`
-4. `A hand gently placing a potted flower on a windowsill [DETALHE: o vaso], revealing a city view beyond.`
-5. `A colorful full plate of fruit restored [DETALHE: um morango], revealing a happy family table.`
-6. `Earth from space, green and alive, glowing softly [DETALHE: um continente verde], revealing the whole planet.`
-7. `A comment section and subscribe button glowing warmly [DETALHE: o botão], revealing a phone in hands.`
-8. `A sunrise over a blooming field with bees at work [DETALHE: o sol nascente], revealing the horizon.`
+2. `A hand gently placing a potted flower on a windowsill [DETALHE: o vaso], revealing a city view beyond.`
+3. `A colorful full plate of fruit restored [DETALHE: um morango], revealing a happy family table.`
+4. `A bee on a flower growing in cracked soil, camera tilting down [DETALHE: a raiz na terra], revealing dark ground below.`
+5. `A cross-section of earth: thin living green surface on top, endless dark rock plunging below [DETALHE: a linha da superfície], revealing the depth.`
+6. `A rusted heavy metal cap welded shut onto frozen ground in a desolate snowy landscape [DETALHE: a solda], revealing an abandoned Soviet site (teaser vídeo 11).`
+7. `Faint red steam leaking from the edges of a sealed metal hatch in the snow [DETALHE: o vapor vermelho], revealing rusted ruins around it (teaser vídeo 11).`
+8. `A dark bottomless borehole descending into blackness [DETALHE: a boca do poço], revealing warning signs and Soviet-era machinery (teaser vídeo 11).`
 
 Então, quanto tempo a humanidade duraria sem abelhas? A resposta honesta: mais do que quatro anos, e menos bem do que você imagina. Não com um apagão dramático, mas com um empobrecimento lento, caro e cinza, que já começou, e que tem gente pagando com as próprias mãos, agora, em cima de árvores do outro lado do planeta.
 
 Mas de todos os finais dos nossos vídeos, este é o mais leve de carregar. Porque pela primeira vez a solução não depende de governos, de engenheiros, de bilhões de dólares. Depende de uma flor. Da sua flor. É o apocalipse mais fácil de adiar da história, e o convite mais barato: deixe um cantinho do mundo florir.
 
-E com isso, a gente fecha a primeira temporada deste canal. Dez histórias sobre os fios invisíveis que seguram a civilização, e sobre como ela é ao mesmo tempo poderosíssima e frágil. Se você chegou até aqui, do primeiro vídeo até este, você não é mais a mesma pessoa que olha para o Wi-Fi, para a tomada, para o céu e para uma abelha do mesmo jeito. E era exatamente esse o plano.
+E repare numa coisa, agora que você olha essa abelha decolando de uma flor. Tudo o que a gente amou neste vídeo, as abelhas, as raízes, as plantações, a vida inteira, mora numa película finíssima na superfície do planeta. Uma casquinha viva e verde, mais fina, em proporção, que a casca de uma maçã. E é só isso que a gente conhece de verdade. Porque na única vez em que a humanidade tentou furar essa casca para ver o que tem embaixo, aconteceu algo que ninguém esperava.
 
-Agora eu quero ouvir você: qual desses dez temas mais mexeu com a sua cabeça? E o que você quer ver na próxima temporada? Comenta aí embaixo, porque a próxima leva de vídeos vai ser escolhida com base nas suas respostas. Se inscreve, ativa o sininho, e planta uma florzinha por mim. A gente se vê na temporada dois. Até lá.
+No próximo vídeo: a União Soviética passou vinte e quatro anos cavando o buraco mais fundo da história da humanidade. Mais de doze quilômetros para dentro da Terra. E aí, de repente, no auge, eles simplesmente pararam, soldaram uma tampa de metal por cima, e foram embora. O que eles encontraram lá embaixo reescreveu a geologia, e uma parte disso é tão estranha que virou lenda. Se inscreve e ativa o sininho, porque a gente vai descer no único lugar mais assustador que o fundo do oceano: o interior do nosso próprio planeta.
+
+E antes de ir, planta uma florzinha por mim, e comenta aí embaixo: qual desses dez temas mais mexeu com a sua cabeça? Eu leio todos. Até o próximo vídeo.
 
 ---
 
@@ -249,8 +251,9 @@ Agora eu quero ouvir você: qual desses dez temas mais mexeu com a sua cabeça? 
 
 - IMAGENS ULTRA-REALISTAS (não o estilo 2D dos vídeos anteriores) — coerência: use o mesmo look fotográfico em todas as 80. Se quiser manter identidade com a série, aplique só a paleta (tons quentes de mel + verde) na correção de cor do CapCut
 - ANIMAÇÃO ZOOM-OUT: cada prompt marca o [DETALHE] onde o zoom começa fechado (~130-150%) → termina em 100% revelando a cena. Mantenha a MESMA direção (sempre abrindo) em todo o vídeo para ritmo hipnótico
-- Vídeo de FECHAMENTO de temporada: a Parte 10 recapitula os 10 vídeos e pede tema da temporada 2 nos comentários (engajamento alto) — não cortar
-- Tela final → um vídeo âncora antigo da série (ex.: o vídeo 1) para reiniciar a maratona de novos espectadores
+- Parte 10 fecha o tema (abelhas) mas NÃO fecha a série: faz o gancho para o vídeo 11 (Poço de Kola) via a ponte "a vida mora numa casquinha fina; quando a gente furou essa casca..." — não cortar o teaser
+- Tela final → vídeo 11 (Kola). Se o 11 ainda não estiver no ar, apontar temporariamente para o vídeo 1 (âncora) e trocar quando o 11 publicar
+- As 3 últimas imagens da Parte 10 (tampa soldada, vapor vermelho, poço escuro) são o teaser do vídeo 11 — casam com a thumbnail "LACRADO" do próximo vídeo
 - Este vídeo cita o vídeo da Theranos (mito/autoridade) e o dos insetos — manter pontes para session time
 - Tom: mais leve e esperançoso que os anteriores; ritmo contemplativo; a Parte 5 (China) é o pico emocional — trilha mais melancólica ali
 - Fato sensível: nada polêmico; tema seguro para monetização. Manter o enquadramento factual sobre pesticidas (não citar marcas)
