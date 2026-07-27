@@ -6,7 +6,8 @@
 | Imagens ultra-realistas | **64** (8 por parte) | PNG 16:9 |
 | Áudios de narração | **8** (1 por parte) | WAV 24kHz, voz **Roman** (masculina grave) |
 | Duração total da narração | **~9,5 min** | + pausas = ~11 min de vídeo |
-| Custo | ~66 créditos | de 200 disponíveis |
+| Custo real | **132 créditos** | 64 nas imagens + 68 nos áudios (cobrados por duração) |
+| Saldo restante | **67,7 créditos** | de 200 |
 
 ---
 
