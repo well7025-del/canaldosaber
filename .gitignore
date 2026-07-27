@@ -1,0 +1,8 @@
+# Chave da API — nunca versionar
+.env
+
+# Áudios gerados pelo ElevenLabs
+audio/
+*.mp3
+
+__pycache__/
